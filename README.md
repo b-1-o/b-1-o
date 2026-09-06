@@ -53,11 +53,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/b-1-o">
-  <img
-    src="https://streak-stats.demolab.com?user=b-1-o&hide_border=true&background=0d0d0d&ring=888888&fire=cfcfcf&currStreakLabel=e8e8e8&sideLabels=a8a8a8&dates=666666&currStreakNum=e8e8e8&sideNums=cfcfcf"
-    height="165"
-    alt="GitHub Streak"
-  />
+  <img src="./assets/streak.svg" height="165" alt="GitHub Streak"/>
 </a>
 
 <div align="center">
