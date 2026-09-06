@@ -38,7 +38,7 @@
 
 ### ⛧ SKILLS
 
-<img src="./assets/skills.svg" width="620" alt="Skills">
+<img src="./assets/skills.svg" width="100%" alt="Skills">
 
 <div align="center">
 
