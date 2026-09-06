@@ -1,0 +1,8 @@
+<svg width="150" height="42" viewBox="0 0 150 42" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="g"><feGaussianBlur stdDeviation="2"></feGaussianBlur><feMerge><feMergeNode></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="148" height="40" rx="10" fill="#0a0a0a" stroke="#333"></rect>
+<path d="M13 20 L33 12 L28 30 L22 23 L18 27 L19 21 Z M18 21 L28 16" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round" filter="url(#g)"></path>
+<text x="43" y="26" fill="#fff" font-family="monospace" font-size="13">TELEGRAM</text>
+</svg>
