@@ -34,43 +34,19 @@
 
 <img src="./assets/tech.svg" width="620" alt="Tech Stack">
 
-</div>
-
-<br>
-
 <div align="center">
 
 ### ⛧ SKILLS
 
 <img src="./assets/skills.svg" width="620" alt="Skills">
 
-</div>
-
-<br>
-
 <div align="center">
-
-`· · · ⛧ · · ·`
-
-</div>
-
-<br>
 
 <div align="center">
 
 <img src="./fork.gif" width="160" alt="Fork">
 
-</div>
-
-<br>
-
 <div align="center">
-
-`· · · ⛧ · · ·`
-
-</div>
-
-<br>
 
 <div align="center">
 
