@@ -6,8 +6,6 @@
 
 # 𝔟-𝟙-𝔬
 
-### `@psycho_b1o`
-
 **developer · linux · web · systems**
 
 <br>
@@ -36,9 +34,9 @@
 <img src="https://img.shields.io/badge/DISCORD-0d0d0d?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<br><br>
-
 </div>
+
+<br>
 
 ---
 
@@ -48,9 +46,13 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,swift,json,linux,bash,git,github">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,swift,json,linux,bash,git,github&theme=dark">
 
 <br><br>
+
+<img src="https://github-readme-tech-stack.vercel.app/api?title=TECH%20STACK&align=center&titleAlign=center&fontFamily=monospace&fontSize=18&lineHeight=10&theme=dark&lineCount=2&gap=8&hideBg=true&border=0&width=500&data=HTML~████████████████████%3BCSS~███████████████████░%3BJavaScript~███████████████░░░░%3BPython~██████████████░░░░░░%3BSwift~████████████░░░░░░░░%3BLinux~███████████████████░">
+
+<br>
 
 ```text
 HTML        ████████████████████
@@ -63,13 +65,21 @@ Linux       ███████████████████░
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## 🕯 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘
+<img src="./fork.gif" alt="Fork">
+
+</div>
 
 <br>
+
+---
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=b-1-o&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=7a1717&include_all_commits=true">
 
