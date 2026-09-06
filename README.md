@@ -30,13 +30,9 @@
 
 <div align="center">
 
-### ⛧ TECH STACK
-
 <img src="./assets/tech.svg" width="90%" alt="Tech Stack">
 
 <div align="center">
-
-### ⛧ SKILLS
 
 <img src="./assets/skills.svg" width="90%%" alt="Skills">
 
@@ -49,10 +45,6 @@
 <div align="center">
 
 <div align="center">
-
-### ⛧ GITHUB STATS
-
-<br>
 
 <a href="https://github.com/b-1-o">
   <img
