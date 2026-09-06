@@ -28,18 +28,6 @@
   <img src="./assets/discord.svg" height="36" alt="Discord">
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-`· · · ⛧ · · ·`
-
-</div>
-
-<br>
-
 <div align="center">
 
 ### ⛧ TECH STACK
