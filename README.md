@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="./fork.gif" width="100%" hight="30%" alt="Fork">
+<img src="./fork.gif" width="500px" hight="100px" alt="Fork">
 
 </div>
 
