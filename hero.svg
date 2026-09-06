@@ -68,7 +68,7 @@
   <!-- FOREST -->
   <!-- ========================= -->
 
-  <image href="./forest.jpg" x="0" y="0" width="1200" height="520" preserveAspectRatio="xMidYMid slice" filter="url(#dark)"></image>
+  <image href="forest.jpg" x="0" y="0" width="1200" height="520" preserveAspectRatio="xMidYMid slice" filter="url(#dark)"></image>
 
 
   <!-- ========================= -->
