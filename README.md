@@ -12,7 +12,7 @@
 
 <br>
 
-<a href="https://www.tiktok.com/@psycho_b1o"><img src="./socials/tiktok.svg" height="42" alt="TikTok"></a><a href="https://www.instagram.com/__._saint"><img src="./socials/instagram.svg" height="42" alt="Instagram"></a><a href="https://t.me/blood_on_music"><img src="./socials/telegram.svg" height="42" alt="Telegram"></a><a href="https://discord.gg/P9aqyGCSG"><img src="./socials/discord.svg" height="42" alt="Discord"></a>
+<a href="https://www.tiktok.com/@psycho_b1o"><img src="./socials/tiktok.svg" height="42" alt="TikTok"></a><a href="https://www.instagram.com/__._saint"><img src="./socials/instagram.svg" height="42" alt="Instagram"></a><a href="https://t.me/blood_on_my_body"><img src="./socials/telegram.svg" height="42" alt="Telegram"></a><a href="https://discord.gg/P9aqyGCSG"><img src="./socials/discord.svg" height="42" alt="Discord"></a>
 
 <br>
 <br>
