@@ -48,7 +48,6 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=b-1-o&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e8e8e8&text_color=a8a8a8&icon_color=cfcfcf&ring_color=888888&include_all_commits=true&count_private=true"
     height="165"
-    alt="GitHub Stats"
   />
 </a>
 &nbsp;
