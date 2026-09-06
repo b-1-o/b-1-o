@@ -32,13 +32,13 @@
 
 ### ⛧ TECH STACK
 
-<img src="./assets/tech.svg" width="620" alt="Tech Stack">
+<img src="./assets/tech.svg" width="90%" alt="Tech Stack">
 
 <div align="center">
 
 ### ⛧ SKILLS
 
-<img src="./assets/skills.svg" width="80%" alt="Skills">
+<img src="./assets/skills.svg" width="90%%" alt="Skills">
 
 <div align="center">
 
@@ -70,21 +70,7 @@
   />
 </a>
 
-</div>
-
-<br>
-
 <div align="center">
-
-`· · · ⛧ · · ·`
-
-<br><br>
-
-**𝔟-𝟙-𝔬**
-
-<sub>written in candlelight & fog</sub>
-
-<br>
 
 <sub>THE FOREST REMEMBERS</sub>
 
