@@ -38,13 +38,13 @@
 
 ### ⛧ SKILLS
 
-<img src="./assets/skills.svg" width="100%" alt="Skills">
+<img src="./assets/skills.svg" width="80%" alt="Skills">
 
 <div align="center">
 
 <div align="center">
 
-<img src="./fork.gif" width="100%" alt="Fork">
+<img src="./fork.gif" width="80%" alt="Fork">
 
 <div align="center">
 
