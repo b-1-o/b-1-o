@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./forest.jpg" width="100%" alt="The forest remembers" />
+  <img src="./forest.jpg" alt="The forest remembers" width="100%" />
 </p>
 
 <br>
@@ -10,11 +10,19 @@
 
 ### `@psycho_b1o`
 
-*developer · linux enthusiast · web builder*
+**developer · linux · web · systems**
 
 <br>
 
-> **“I did not disappear. I simply became part of the fog.”**
+*“I did not disappear. I simply became part of the fog.”*
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/b-1-o)
+[![TikTok](https://img.shields.io/badge/TikTok-0d0d0d?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@psycho_b1o)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/__._saint)
+[![Telegram](https://img.shields.io/badge/Telegram-3b0909?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/blood_on_music)
+[![Discord](https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/P9aqyGCSG)
 
 </div>
 
@@ -28,23 +36,31 @@
 
 </div>
 
+<table align="center">
+<tr>
+<td>
+
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   $ whoami                                                  │
-│   b-1-o                                                     │
-│                                                             │
-│   $ status                                                  │
-│   ● ONLINE                                                   │
-│                                                             │
-│   $ current_state                                           │
-│   building things in the dark                               │
-│                                                             │
-│   $ environment                                             │
-│   CachyOS · Hyprland · Wayland                              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│                                              │
+│   $ whoami                                   │
+│   b-1-o                                      │
+│                                              │
+│   $ status                                   │
+│   ● ONLINE                                   │
+│                                              │
+│   $ environment                              │
+│   CachyOS · Hyprland · Wayland               │
+│                                              │
+│   $ currently                                │
+│   building things in the dark                │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -54,11 +70,11 @@
 
 </div>
 
-I like building things from the ground up — from **web interfaces and small tools** to Linux configurations and custom environments.
+I'm interested in **web development, Linux, system customization and software**.
 
-Most of my projects live somewhere between **code, design and experimentation**.
+I like understanding how things work beneath the surface and turning that knowledge into something useful — whether it's a website, a script, a custom Linux environment or a completely unnecessary experiment that somehow becomes a project.
 
-I enjoy dark interfaces, minimal UI, Linux, customization and understanding how things work underneath the surface.
+I prefer **dark interfaces, minimal design, clean code and systems that I can actually understand and control.**
 
 <br>
 
@@ -66,72 +82,66 @@ I enjoy dark interfaces, minimal UI, Linux, customization and understanding how 
 
 <div align="center">
 
-## ⚔ 𝕿𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖞
+## ⚔ 𝕿𝖊𝖈𝖍 𝕾𝖙𝖆𝖈𝖐
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,swift,json,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,swift,json,linux,bash,git,github" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ```text
-HTML       ████████████████████░  95%
-CSS        ██████████████████░░░  90%
-JavaScript ████████████████░░░░░  80%
-Python     ██████████████░░░░░░░  70%
-Swift      ████████████░░░░░░░░░  60%
-Linux      ███████████████████░░  90%
+HTML        ████████████████████
+CSS         ███████████████████░
+JavaScript  ████████████████░░░░
+Python      ██████████████░░░░░░
+Swift       ████████████░░░░░░░░
+Linux       ███████████████████░
 ```
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## 🕯 𝕿𝖍𝖊 𝕿𝖔𝖔𝖑𝖘 𝕴 𝖀𝖘𝖊
+##  𝕷𝖎𝖓𝖚𝖝
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="180">
 
-###  Linux
+<td align="center" width="33%">
 
-CachyOS
-Arch ecosystem
+###  CachyOS
+
+Arch-based
+Linux environment
+
+</td>
+
+<td align="center" width="33%">
+
+### ◈ Hyprland
+
 Wayland
-Hyprland
+Window management
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="33%">
 
-### ◈ Development
+### ⚙ Terminal
 
-HTML
-CSS
-JavaScript
-Python
-Swift
+CLI
+Shell
+System configuration
 
 </td>
 
-<td align="center" width="180">
-
-### ⚙ Environment
-
-Zed
-Git
-Terminal
-CLI tools
-
-</td>
 </tr>
 </table>
 
@@ -153,7 +163,7 @@ CLI tools
 
 ### 🩸 Gothic Web
 
-Dark atmospheric interfaces, experimental layouts and personal web experiences.
+Dark, atmospheric interfaces and experimental web projects.
 
 `HTML` `CSS` `JavaScript`
 
@@ -163,9 +173,9 @@ Dark atmospheric interfaces, experimental layouts and personal web experiences.
 
 ###  Linux
 
-Custom Linux environment, Hyprland configuration, scripts and system experiments.
+Custom configurations, scripts and experiments around Linux and Wayland.
 
-`CachyOS` `Hyprland` `Wayland`
+`CachyOS` `Hyprland` `Bash`
 
 </td>
 
@@ -177,9 +187,9 @@ Custom Linux environment, Hyprland configuration, scripts and system experiments
 
 ### 🎧 Media Tools
 
-Small tools and experiments for music, media and browser-based playback.
+Experiments involving music, browsers, media playback and desktop integration.
 
-`Python` `Web` `MPRIS`
+`Python` `MPRIS` `Web`
 
 </td>
 
@@ -187,9 +197,9 @@ Small tools and experiments for music, media and browser-based playback.
 
 ### ⚙ Experiments
 
-Things created simply because I wanted to know:
+Small projects created to understand, test and break things.
 
-**“What happens if I build it myself?”**
+`Code` `Systems` `Ideas`
 
 </td>
 
@@ -203,65 +213,11 @@ Things created simply because I wanted to know:
 
 <div align="center">
 
-## 🕸 𝕾𝖔𝖈𝖎𝖆𝖑
+## 🕯 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘
 
 <br>
 
-<a href="https://github.com/b-1-o">
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.tiktok.com/@psycho_b1o">
-  <img src="https://img.shields.io/badge/TikTok-0d0d0d?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/__._saint">
-  <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://t.me/blood_on_music">
-  <img src="https://img.shields.io/badge/My%20Music-3b0909?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://discord.gg/P9aqyGCSG">
-  <img src="https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## 📜 𝕮𝖍𝖗𝖔𝖓𝖎𝖈𝖑𝖊
-
-```text
-                 ┌───────────────────────────┐
-                 │                           │
-                 │      THE FOREST REMEMBERS │
-                 │                           │
-                 └───────────────────────────┘
-
-       01 ───── learned to build
-       02 ───── learned to break
-       03 ───── learned to understand
-       04 ───── started building again
-       ∞  ───── still here
-```
-
-<br>
-
-### `CURRENTLY`
-
-**learning · building · experimenting · breaking things**
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=b-1-o&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=7a1717" />
+<img src="https://github-readme-stats.vercel.app/api?username=b-1-o&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=7a1717&include_all_commits=true" />
 
 <br><br>
 
@@ -275,24 +231,52 @@ Things created simply because I wanted to know:
 
 <div align="center">
 
+## 🕸 𝕮𝖔𝖓𝖓𝖊𝖈𝖙
+
+<br>
+
+<a href="https://www.tiktok.com/@psycho_b1o">
+<img src="https://img.shields.io/badge/TIKTOK-111111?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/__._saint">
+<img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://t.me/blood_on_music">
+<img src="https://img.shields.io/badge/MY_MUSIC-3b0909?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/P9aqyGCSG">
+<img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                    ᛖᛉ ᛢᛜᛈᛙᚣᚳ                            ║
-║                                                              ║
-║              written in candlelight & fog                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+                    ╔══════════════════════╗
+                    ║                      ║
+                    ║   THE FOREST REMEMBERS
+                    ║                      ║
+                    ╚══════════════════════╝
 ```
 
 <br>
 
-**𝔟-𝟙-𝔬**
+### 𝔟-𝟙-𝔬
 
-*The code remains. The forest remembers.*
+*written in candlelight & fog*
 
 <br>
 
 <sub>© 2026 b-1-o · built in the dark</sub>
+
+<br><br>
 
 </div>
