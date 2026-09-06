@@ -1,25 +1,10 @@
 <div align="center">
 
-<img src="./forest.jpg" width="100%" alt="The forest remembers">
-
-<br>
-
-# 𝔟-𝟙-𝔬
-
-**developer · linux · web · systems**
-
-*“I did not disappear. I simply became part of the fog.”*
-
-<br>
-
-<a href="https://www.tiktok.com/@psycho_b1o"><img src="./socials/tiktok.svg" height="42" alt="TikTok"></a><a href="https://www.instagram.com/__._saint"><img src="./socials/instagram.svg" height="42" alt="Instagram"></a><a href="https://t.me/blood_on_my_body"><img src="./socials/telegram.svg" height="42" alt="Telegram"></a><a href="https://discord.gg/P9aqyGCSG"><img src="./socials/discord.svg" height="42" alt="Discord"></a>
-
-<br>
-<br>
+<img src="./hero.svg" width="100%" alt="b-1-o">
 
 </div>
 
----
+<br>
 
 ## ⛧ Tech Stack
 
@@ -29,7 +14,7 @@
 
 </div>
 
----
+<br>
 
 ## ⛧ Skills
 
@@ -39,15 +24,15 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="./fork.gif" width="100%" hight="20%" alt="Fork">
+<img src="./fork.gif" width="100%" alt="Fork">
 
 </div>
 
----
+<br>
 
 ## ⛧ GitHub
 
@@ -63,7 +48,7 @@
 
 <div align="center">
 
-### 𝔟-𝟙-𝔬
+**𝔟-𝟙-𝔬**
 
 *written in candlelight & fog*
 
