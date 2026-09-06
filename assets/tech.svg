@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="650" height="80" viewBox="0 0 650 80">
-  <rect width="650" height="80" fill="#0a0a0a"/>
+  <rect width="100%" height="" fill="#0a0a0a"/>
   <text x="325" y="35" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#c0c0c0" letter-spacing="3">HTML  ·  CSS  ·  JAVASCRIPT</text>
   <text x="325" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#c0c0c0" letter-spacing="3">PYTHON  ·  SWIFT  ·  LINUX</text>
 </svg>
