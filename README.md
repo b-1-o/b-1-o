@@ -70,29 +70,6 @@
 
 <div align="center">
 
-### TERMINAL
-
-</div>
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  $ whoami                                    │
-│  b-1-o                                       │
-│                                              │
-│  $ systemctl status life                     │
-│  ● running                                   │
-│                                              │
-│  $ echo "THE FOREST REMEMBERS"               │
-│  THE FOREST REMEMBERS                        │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-<br>
-
-<div align="center">
-
 <img src="./fork.gif" width="160" alt="Fork">
 
 </div>
