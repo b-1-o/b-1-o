@@ -28,11 +28,11 @@
 
 <div align="center">
 
-<img src="./assets/tech.svg" width="100%" alt="Tech Stack">
+<img src="./assets/skills.svg" width="100%%" alt="Skills">
 
 <div align="center">
 
-<img src="./assets/skills.svg" width="100%%" alt="Skills">
+<img src="./assets/tech.svg" width="100%" alt="Tech Stack">
 
 <div align="center">
 
