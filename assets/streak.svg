@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 495 195" width="495px" height="195px" direction="ltr">
+  <defs>
+    <clipPath id="outer">
+      <rect width="495" height="195" rx="6"/>
+    </clipPath>
+    <linearGradient id="dividerGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#444" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#555" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#555" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#444" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#outer)">
+    <!-- Background -->
+    <rect width="495" height="195" fill="#0a0a0a"/>
+    <rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="none" stroke="#222" stroke-width="1"/>
+
+    <!-- Soft vertical dividers -->
+    <line x1="165" y1="25" x2="165" y2="170" stroke="url(#dividerGrad)" stroke-width="1"/>
+    <line x1="330" y1="25" x2="330" y2="170" stroke="url(#dividerGrad)" stroke-width="1"/>
+
+    <!-- ===== LEFT: Total Contributions ===== -->
+    <text x="82.5" y="72" text-anchor="middle"
+          font-family="Georgia, 'Times New Roman', serif"
+          font-size="32" font-weight="700" fill="#e8e8e8" filter="url(#softGlow)">288</text>
+    <text x="82.5" y="100" text-anchor="middle"
+          font-family="Georgia, serif"
+          font-size="13" fill="#a0a0a0" letter-spacing="0.5">Total Contributions</text>
+    <text x="82.5" y="122" text-anchor="middle"
+          font-family="Georgia, serif"
+          font-size="11" fill="#666">Dec 18, 2025 – Present</text>
+
+    <!-- ===== CENTER: Current Streak ===== -->
+    <!-- Circle -->
+    <circle cx="247.5" cy="68" r="38" fill="none" stroke="#555" stroke-width="4"/>
+    <circle cx="247.5" cy="68" r="38" fill="none" stroke="#888" stroke-width="1.5" opacity="0.6"/>
+
+    <!-- Fire icon (minimal) -->
+    <g transform="translate(247.5, 22)">
+      <path d="M0 2 C2 8 4 12 2 16 C0 20 -3 18 -2 14 C-4 16 -5 12 -3 8 C-1 4 0 2 0 2Z"
+            fill="#cfcfcf" opacity="0.9"/>
+    </g>
+
+    <!-- Big number -->
+    <text x="247.5" y="78" text-anchor="middle"
+          font-family="Georgia, 'Times New Roman', serif"
+          font-size="30" font-weight="700" fill="#f0f0f0" filter="url(#softGlow)">1</text>
+
+    <text x="247.5" y="128" text-anchor="middle"
+          font-family="Georgia, serif"
+          font-size="13" fill="#e0e0e0" letter-spacing="0.5">Current Streak</text>
+    <text x="247.5" y="148" text-anchor="middle"
+          font-family="Georgia, serif"
+          font-size="11" fill="#666">Sep 6</text>
+
+    <!-- ===== RIGHT: Longest Streak ===== -->
+    <text x="412.5" y="72" text-anchor="middle"
+          font-family="Georgia, 'Times New Roman', serif"
+          font-size="32" font-weight="700" fill="#e8e8e8" filter="url(#softGlow)">7</text>
+    <text x="412.5" y="100" text-anchor="middle"
+          font-family="Georgia, serif"
+          font-size="13" fill="#a0a0a0" letter-spacing="0.5">Longest Streak</text>
+    <text x="412.5" y="122" text-anchor="middle"
+          font-family="Georgia, serif"
+          font-size="11" fill="#666">Aug 19 – Aug 25</text>
+  </g>
+</svg>
