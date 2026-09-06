@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="./fork.gif" width="160" alt="Fork">
+<img src="./fork.gif" width="100%" alt="Fork">
 
 <div align="center">
 
