@@ -6,41 +6,27 @@
 
 <br>
 
-## ⛧ Tech Stack
-
 <div align="center">
 
-<img src="./tech.svg" width="100%" alt="Tech Stack">
-
-</div>
-
-<br>
-
-## ⛧ Skills
-
-<div align="center">
-
-<img src="./skills.svg" width="100%" alt="Skills">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="./fork.gif" width="100%" alt="Fork">
-
-</div>
-
-<br>
-
-## ⛧ GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=b-1-o&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true" height="170" alt="GitHub Stats">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=b-1-o&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&dates=666666" height="170" alt="GitHub Streak">
+<a href="https://github.com/b-1-o">
+  <img src="./assets/github.svg" width="135" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.tiktok.com/@psycho_b1o">
+  <img src="./assets/tiktok.svg" width="135" alt="TikTok">
+</a>
+&nbsp;
+<a href="https://www.instagram.com/__._saint">
+  <img src="./assets/instagram.svg" width="135" alt="Instagram">
+</a>
+&nbsp;
+<a href="https://t.me/blood_on_music">
+  <img src="./assets/telegram.svg" width="135" alt="Telegram">
+</a>
+&nbsp;
+<a href="https://discord.gg/P9aqyGCSG">
+  <img src="./assets/discord.svg" width="135" alt="Discord">
+</a>
 
 </div>
 
@@ -48,12 +34,56 @@
 
 <div align="center">
 
-**𝔟-𝟙-𝔬**
-
-*written in candlelight & fog*
-
-**THE FOREST REMEMBERS**
-
-<sub>© 2026 b-1-o · built in the dark</sub>
+`· · · ⛧ · · ·`
 
 </div>
+
+<br>
+
+<div align="center">
+
+### ⛧ TECH STACK
+
+<img src="./assets/tech.svg" width="650" alt="Tech Stack">
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⛧ SKILLS
+
+<img src="./assets/skills.svg" width="650" alt="Skills">
+
+</div>
+
+<br>
+
+<div align="center">
+
+`· · · ⛧ · · ·`
+
+</div>
+
+<br>
+
+<div align="center">
+
+### TERMINAL
+
+</div>
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  $ whoami                                    │
+│  b-1-o                                       │
+│                                              │
+│  $ systemctl status life                     │
+│  ● running                                   │
+│                                              │
+│  $ echo "THE FOREST REMEMBERS"               │
+│  THE FOREST REMEMBERS                        │
+│                                              │
+└──────────────────────────────────────────────┘
