@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img src="fores.jpeg" alt="the forest remembers" width="100%">
+</p>
 
-<!--
-**b-1-o/b-1-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✧ 𝔟-𝟙-𝔬 ✧
+
+**psycho_b1o**
+
+*“There are no names in the fog. Only the shadows that remain.”*
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ⚔ Currently in the Shadows
+
+</div>
+
+- 🩸 Crafting dark, atmospheric pages and biographies  
+- 🌲 Gothic web design — forest, blood, runes, blackletter  
+- 📱 Custom Telegram (Biogram / Swiftgram)  
+- 🖤 HTML & CSS with soul, not just code  
+
+<br>
+
+---
+
+<div align="center">
+
+### 🕯 Where to Find Me
+
+</div>
+
+```text
+Discord   →  (link)
+Telegram  →  (link)
+TikTok    →  (link)
+Other     →  (link)
