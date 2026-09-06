@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./forest.jpg" width="100%" alt="The forest remembers" />
+  <img src="./forest.jpeg" width="100%" alt="The forest remembers" />
 </p>
 
 <br>
