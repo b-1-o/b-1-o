@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="220" viewBox="0 0 650 220">
+  <rect width="650" height="220" fill="#0a0a0a"/>
+  
+  <!-- HTML -->
+  <text x="80" y="30" font-family="Georgia, serif" font-size="14" fill="#d0d0d0">HTML</text>
+  <rect x="160" y="18" width="400" height="14" rx="2" fill="#1a1a1a" stroke="#333" stroke-width="1"/>
+  <rect x="160" y="18" width="400" height="14" rx="2" fill="#cfcfcf"/>
+  <text x="575" y="30" font-family="Georgia, serif" font-size="13" fill="#aaa">100%</text>
+  
+  <!-- CSS -->
+  <text x="80" y="60" font-family="Georgia, serif" font-size="14" fill="#d0d0d0">CSS</text>
+  <rect x="160" y="48" width="400" height="14" rx="2" fill="#1a1a1a" stroke="#333" stroke-width="1"/>
+  <rect x="160" y="48" width="380" height="14" rx="2" fill="#cfcfcf"/>
+  <text x="575" y="60" font-family="Georgia, serif" font-size="13" fill="#aaa">95%</text>
+  
+  <!-- JS -->
+  <text x="80" y="90" font-family="Georgia, serif" font-size="14" fill="#d0d0d0">JS</text>
+  <rect x="160" y="78" width="400" height="14" rx="2" fill="#1a1a1a" stroke="#333" stroke-width="1"/>
+  <rect x="160" y="78" width="320" height="14" rx="2" fill="#cfcfcf"/>
+  <text x="575" y="90" font-family="Georgia, serif" font-size="13" fill="#aaa">80%</text>
+  
+  <!-- PYTHON -->
+  <text x="80" y="120" font-family="Georgia, serif" font-size="14" fill="#d0d0d0">PYTHON</text>
+  <rect x="160" y="108" width="400" height="14" rx="2" fill="#1a1a1a" stroke="#333" stroke-width="1"/>
+  <rect x="160" y="108" width="280" height="14" rx="2" fill="#cfcfcf"/>
+  <text x="575" y="120" font-family="Georgia, serif" font-size="13" fill="#aaa">70%</text>
+  
+  <!-- SWIFT -->
+  <text x="80" y="150" font-family="Georgia, serif" font-size="14" fill="#d0d0d0">SWIFT</text>
+  <rect x="160" y="138" width="400" height="14" rx="2" fill="#1a1a1a" stroke="#333" stroke-width="1"/>
+  <rect x="160" y="138" width="240" height="14" rx="2" fill="#cfcfcf"/>
+  <text x="575" y="150" font-family="Georgia, serif" font-size="13" fill="#aaa">60%</text>
+  
+  <!-- LINUX -->
+  <text x="80" y="180" font-family="Georgia, serif" font-size="14" fill="#d0d0d0">LINUX</text>
+  <rect x="160" y="168" width="400" height="14" rx="2" fill="#1a1a1a" stroke="#333" stroke-width="1"/>
+  <rect x="160" y="168" width="380" height="14" rx="2" fill="#cfcfcf"/>
+  <text x="575" y="180" font-family="Georgia, serif" font-size="13" fill="#aaa">95%</text>
+</svg>
