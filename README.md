@@ -40,11 +40,7 @@ I work primarily with **React, JavaScript, TypeScript and modern frontend toolin
 
 <div align="center">
 
-|  Frontend  | Frameworks | Backend & APIs |  Tools |
-| :--------: | :--------: | :------------: | :----: |
-| HTML · CSS |    React   |    REST APIs   |   Git  |
-| JavaScript |   Next.js  |   PostgreSQL   | GitHub |
-| TypeScript |    Vite    |   YouTube API  | Vercel |
+<img src="./assets/tech.svg" width="100%" alt="Technology Stack">
 
 </div>
 
@@ -52,71 +48,97 @@ I work primarily with **React, JavaScript, TypeScript and modern frontend toolin
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### HEAVEN
-
-Developer command center focused on projects, repositories, deployments and team workflows.
-
-**Next.js · TypeScript · PostgreSQL · Vercel**
-
-<a href="https://heaven-b1o.vercel.app/">Live Demo</a> · <a href="https://github.com/b-1-o/heaven">Repository</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Music
-
-Modern web music application with playlists, full player experience and YouTube Data API integration.
-
-**React · JavaScript · YouTube API**
-
-<a href="https://b-1-o.github.io/music/">Live Demo</a> · <a href="https://github.com/b-1-o/music">Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Portfolio
-
-Personal developer portfolio with a minimal dark interface and interactive project presentation.
-
-**React · Vite · JavaScript · CSS**
-
-<a href="https://b-1-o.github.io/portfolio/">Live Demo</a> · <a href="https://github.com/b-1-o/portfolio">Repository</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Build
-
-Premium real-estate interface built as a responsive React and TypeScript web application.
-
-**React · TypeScript · Vite**
-
-<a href="https://b-1-o.github.io/build/">Live Demo</a> · <a href="https://github.com/b-1-o/build">Repository</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
 <div align="center">
 
-<img src="./assets/tech.svg" width="100%" alt="Technology Stack">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>Nothing</h3>
+
+A modern product experience built around the visual language of Nothing — focused on immersive UI, responsive layouts and polished interactions.
+
+<br>
+
+<strong>React · TypeScript · Vite · CSS</strong>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,postgres,git,github,vercel" alt="Technology Stack">
+<a href="https://github.com/b-1-o/nothing">
+  Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>HEAVEN</h3>
+
+A developer command center for projects, repositories, deployments and team workflows.
+
+<br>
+
+<strong>Next.js · TypeScript · PostgreSQL · Vercel</strong>
+
+<br><br>
+
+<a href="https://heaven-b1o.vercel.app/">
+  Live Demo
+</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/b-1-o/heaven">
+  Repository
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>Music</h3>
+
+A modern music web application with playlists, a full player experience and YouTube Data API integration.
+
+<br>
+
+<strong>React · JavaScript · YouTube API</strong>
+
+<br><br>
+
+<a href="https://b-1-o.github.io/music/">
+  Live Demo
+</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/b-1-o/music">
+  Repository
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>My</h3>
+
+A personal web project focused on visual design, responsive layouts and interactive frontend experiences.
+
+<br>
+
+<strong>React · JavaScript · CSS</strong>
+
+<br><br>
+
+<a href="https://github.com/b-1-o/my">
+  Repository →
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -138,7 +160,7 @@ Premium real-estate interface built as a responsive React and TypeScript web app
 
 <a href="https://github.com/b-1-o">
   <img
-    src="./assets/streak.svg"
+    src="https://github.com/b-1-o/b-1-o/raw/main/assets/streak.svg"
     height="165"
     alt="GitHub Contribution Streak"
   />
