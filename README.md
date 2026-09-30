@@ -13,19 +13,15 @@ Building modern, responsive and interactive web experiences.
 <br>
 
 <a href="https://b-1-o.github.io/portfolio/">
-  <img src="./assets/portfolio.svg" height="36" alt="Portfolio">
+  <img src="https://github.com/b-1-o/b-1-o/raw/main/assets/portfolio.svg" height="36" alt="Portfolio">
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.fiverr.com/users/webbio">
-  <img src="./assets/fiverr.svg" height="36" alt="Fiverr">
+  <img src="https://github.com/b-1-o/b-1-o/raw/main/assets/fiverr.svg" height="36" alt="Fiverr">
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/">
-  <img src="./assets/linkedin.svg" height="36" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="mailto:">
-  <img src="./assets/email.svg" height="36" alt="Email">
+  <img src="https://github.com/b-1-o/b-1-o/raw/main/assets/linkedin.svg" height="36" alt="LinkedIn">
 </a>
 
 </div>
@@ -40,13 +36,17 @@ I'm a frontend developer focused on building clean, responsive and interactive w
 
 I work primarily with **React, JavaScript, TypeScript and modern frontend tooling**, with an emphasis on UI quality, responsive design, API integration and real-world deployment.
 
-```text
-Frontend        React · JavaScript · TypeScript · HTML · CSS
-Frameworks      Next.js · Vite
-Backend / API   REST APIs · PostgreSQL
-Tools           Git · GitHub · Vercel
-Design          UI/UX · Responsive Design · Glassmorphism
-```
+<br>
+
+<div align="center">
+
+|  Frontend  | Frameworks | Backend & APIs |  Tools |
+| :--------: | :--------: | :------------: | :----: |
+| HTML · CSS |    React   |    REST APIs   |   Git  |
+| JavaScript |   Next.js  |   PostgreSQL   | GitHub |
+| TypeScript |    Vite    |   YouTube API  | Vercel |
+
+</div>
 
 ---
 
@@ -54,7 +54,7 @@ Design          UI/UX · Responsive Design · Glassmorphism
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### HEAVEN
 
@@ -66,7 +66,7 @@ Developer command center focused on projects, repositories, deployments and team
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Music
 
@@ -80,11 +80,11 @@ Modern web music application with playlists, full player experience and YouTube 
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Portfolio
 
-Personal developer portfolio designed around a minimal dark interface and interactive project presentation.
+Personal developer portfolio with a minimal dark interface and interactive project presentation.
 
 **React · Vite · JavaScript · CSS**
 
@@ -92,11 +92,11 @@ Personal developer portfolio designed around a minimal dark interface and intera
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Build
 
-Premium real-estate interface built as a responsive React/TypeScript web application.
+Premium real-estate interface built as a responsive React and TypeScript web application.
 
 **React · TypeScript · Vite**
 
@@ -114,13 +114,9 @@ Premium real-estate interface built as a responsive React/TypeScript web applica
 
 <img src="./assets/tech.svg" width="100%" alt="Technology Stack">
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,postgres,git,github,vercel" alt="Tech Stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,postgres,git,github,vercel" alt="Technology Stack">
 
 </div>
 
@@ -137,7 +133,9 @@ Premium real-estate interface built as a responsive React/TypeScript web applica
     alt="GitHub Statistics"
   />
 </a>
-&nbsp;
+
+  
+
 <a href="https://github.com/b-1-o">
   <img
     src="./assets/streak.svg"
@@ -148,11 +146,21 @@ Premium real-estate interface built as a responsive React/TypeScript web applica
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="./fork.gif" width="65%" alt="b-1-o">
+
+</div>
+
 ---
 
 <div align="center">
 
 ### Let's build something useful.
+
+<br>
 
 <a href="https://b-1-o.github.io/portfolio/">
   <strong>View Portfolio →</strong>
