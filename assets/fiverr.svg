@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48">
+  <rect x="1" y="1" width="158" height="46" rx="12" fill="#0b0b0b" stroke="#777"></rect>
+  <path d="M18 20h13v5H23v9h-6V25h-3v-5h3c0-5 3-8 9-8h7v5h-6c-3 0-3 1-3 3z" fill="#fff"></path>
+  <text x="43" y="30" fill="#fff" font-family="Arial,sans-serif" font-size="17" font-weight="600">FIVERR</text>
+</svg>
