@@ -12,19 +12,21 @@ Building modern, responsive and interactive web experiences.
 
 <br>
 
+<div align="center">
+
 <a href="https://b-1-o.github.io/portfolio/">
-  <img src="https://github.com/b-1-o/b-1-o/raw/main/assets/portfolio.svg" height="36" alt="Portfolio">
+  <img src="./assets/portfolio.svg" height="36" alt="Portfolio">
 </a>
 &nbsp;&nbsp;
 <a href="https://www.fiverr.com/users/webbio">
-  <img src="https://github.com/b-1-o/b-1-o/raw/main/assets/fiverr.svg" height="36" alt="Fiverr">
+  <img src="./assets/fiverr.svg" height="36" alt="Fiverr">
 </a>
 &nbsp;&nbsp;
-<a href="www.linkedin.com/in/b1o/">
-  <img src="https://github.com/b-1-o/b-1-o/raw/main/assets/linkedin.svg" height="36" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/b1o">
+  <img src="./assets/linkedin.svg" height="36" alt="LinkedIn">
 </a>
 
-</div>
+</div> 
 
 <br>
 
