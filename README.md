@@ -20,7 +20,7 @@ Building modern, responsive and interactive web experiences.
   <img src="https://github.com/b-1-o/b-1-o/raw/main/assets/fiverr.svg" height="36" alt="Fiverr">
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/b1o">
   <img src="https://github.com/b-1-o/b-1-o/raw/main/assets/linkedin.svg" height="36" alt="LinkedIn">
 </a>
 
