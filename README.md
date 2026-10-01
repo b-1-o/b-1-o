@@ -67,8 +67,12 @@ A modern product experience built around the visual language of Nothing — focu
 
 <br><br>
 
+<a href="https://b-1-o.github.io/nothing/">
+  Live Demo
+</a>
+&nbsp;·&nbsp;
 <a href="https://github.com/b-1-o/nothing">
-  Repository →
+  Repository
 </a>
 
 </td>
@@ -133,8 +137,12 @@ A personal web project focused on visual design, responsive layouts and interact
 
 <br><br>
 
-<a href="https://github.com/b-1-o/my">
-  Repository →
+<a href="https://b-1-o.github.io/myUI/">
+  Live Demo
+</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/b-1-o/myUI">
+  Repository
 </a>
 
 </td>
