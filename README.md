@@ -105,7 +105,7 @@ A developer command center for projects, repositories, deployments and team work
 
 <td width="50%" valign="top">
 
-<h3>Music</h3>
+<h3>b1api</h3>
 
 A modern music web application with playlists, a full player experience and YouTube Data API integration.
 
@@ -127,7 +127,7 @@ A modern music web application with playlists, a full player experience and YouT
 
 <td width="50%" valign="top">
 
-<h3>My</h3>
+<h3>MyUI</h3>
 
 A personal web project focused on visual design, responsive layouts and interactive frontend experiences.
 
