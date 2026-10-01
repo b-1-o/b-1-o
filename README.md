@@ -199,3 +199,4 @@ A personal web project focused on visual design, responsive layouts and interact
 <sub>Frontend Development · UI Engineering · Web Applications</sub>
 
 </div>
+
