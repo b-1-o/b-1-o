@@ -152,14 +152,8 @@ A personal web project focused on visual design, responsive layouts and interact
 
 <br>
 
-<a href="https://b-1-o.github.io/portfolio/">
+<a href="https://b-1-o.github.io/myUI/">
   <strong>View Portfolio →</strong>
-</a>
-
-  ·  
-
-<a href="https://www.fiverr.com/users/webbio">
-  <strong>Hire me →</strong>
 </a>
 
 <br><br>
