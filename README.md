@@ -24,16 +24,6 @@
 
 <br>
 
----
-
-## About
-
-I'm a frontend developer focused on building clean, responsive and interactive web applications.
-
-I work primarily with **React, JavaScript, TypeScript and modern frontend tooling**, with an emphasis on UI quality, responsive design, API integration and real-world deployment.
-
-<br>
-
 <div align="center">
 
 <img src="./assets/tech.svg" width="100%" alt="Technology Stack">
