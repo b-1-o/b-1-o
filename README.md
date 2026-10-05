@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="./hero.svg" width="100%" alt="b-1-o — Frontend Developer">
-
-<br>
 
 # b-1-o
 
