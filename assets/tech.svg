@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
   <defs>
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#444" stop-opacity="0"/>
@@ -8,80 +8,65 @@
     </linearGradient>
   </defs>
 
-  <rect width="900" height="240" fill="#0a0a0a"/>
+  <rect width="900" height="260" fill="#0a0a0a"/>
 
-  <line x1="60" y1="18" x2="840" y2="18" stroke="url(#lineGrad)" stroke-width="1"/>
+  <line x1="60" y1="22" x2="840" y2="22" stroke="url(#lineGrad)" stroke-width="1"/>
 
   <!-- CORE -->
-  <text x="240" y="48" text-anchor="end"
+  <text x="360" y="58" text-anchor="end"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="11" fill="#6a6a6a" letter-spacing="3">CORE</text>
-  <text x="270" y="48" text-anchor="start"
+        font-size="10" fill="#6a6a6a" letter-spacing="3">CORE</text>
+  <text x="390" y="58" text-anchor="start"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="14" fill="#d0d0d0" letter-spacing="2">
-    HTML  ·  CSS  ·  JavaScript  ·  TypeScript
-  </text>
+        font-size="13" fill="#d0d0d0" letter-spacing="2">HTML  ·  CSS  ·  JavaScript  ·  TypeScript</text>
 
   <!-- FRAMEWORKS -->
-  <text x="240" y="78" text-anchor="end"
+  <text x="360" y="90" text-anchor="end"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="11" fill="#6a6a6a" letter-spacing="3">FRAMEWORKS</text>
-  <text x="270" y="78" text-anchor="start"
+        font-size="10" fill="#6a6a6a" letter-spacing="3">FRAMEWORKS</text>
+  <text x="390" y="90" text-anchor="start"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="14" fill="#d0d0d0" letter-spacing="2">
-    React  ·  Next.js  ·  Vite
-  </text>
+        font-size="13" fill="#d0d0d0" letter-spacing="2">React  ·  Next.js  ·  Vite</text>
 
   <!-- STYLING -->
-  <text x="240" y="108" text-anchor="end"
+  <text x="360" y="122" text-anchor="end"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="11" fill="#6a6a6a" letter-spacing="3">STYLING</text>
-  <text x="270" y="108" text-anchor="start"
+        font-size="10" fill="#6a6a6a" letter-spacing="3">STYLING</text>
+  <text x="390" y="122" text-anchor="start"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="14" fill="#d0d0d0" letter-spacing="2">
-    Tailwind CSS  ·  CSS Modules
-  </text>
+        font-size="13" fill="#d0d0d0" letter-spacing="2">Tailwind CSS  ·  CSS Modules</text>
 
   <!-- MOTION & FORMS -->
-  <text x="240" y="138" text-anchor="end"
+  <text x="360" y="154" text-anchor="end"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="11" fill="#6a6a6a" letter-spacing="3">MOTION &amp; FORMS</text>
-  <text x="270" y="138" text-anchor="start"
+        font-size="10" fill="#6a6a6a" letter-spacing="3">MOTION &amp; FORMS</text>
+  <text x="390" y="154" text-anchor="start"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="14" fill="#d0d0d0" letter-spacing="2">
-    Framer Motion  ·  Zod
-  </text>
+        font-size="13" fill="#d0d0d0" letter-spacing="2">Framer Motion  ·  Zod</text>
 
   <!-- BACKEND & DATA -->
-  <text x="240" y="168" text-anchor="end"
+  <text x="360" y="186" text-anchor="end"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="11" fill="#6a6a6a" letter-spacing="3">BACKEND &amp; DATA</text>
-  <text x="270" y="168" text-anchor="start"
+        font-size="10" fill="#6a6a6a" letter-spacing="3">BACKEND &amp; DATA</text>
+  <text x="390" y="186" text-anchor="start"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="14" fill="#d0d0d0" letter-spacing="2">
-    Node.js  ·  PostgreSQL  ·  Neon  ·  REST APIs
-  </text>
+        font-size="13" fill="#d0d0d0" letter-spacing="2">Node.js  ·  PostgreSQL  ·  Neon  ·  REST APIs</text>
 
   <!-- TOOLING -->
-  <text x="240" y="198" text-anchor="end"
+  <text x="360" y="218" text-anchor="end"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="11" fill="#6a6a6a" letter-spacing="3">TOOLING</text>
-  <text x="270" y="198" text-anchor="start"
+        font-size="10" fill="#6a6a6a" letter-spacing="3">TOOLING</text>
+  <text x="390" y="218" text-anchor="start"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="14" fill="#d0d0d0" letter-spacing="2">
-    Git  ·  GitHub  ·  Vercel  ·  ESLint  ·  Prettier
-  </text>
+        font-size="13" fill="#d0d0d0" letter-spacing="2">Git  ·  GitHub  ·  Vercel  ·  ESLint  ·  Prettier</text>
 
   <!-- DESIGN -->
-  <text x="240" y="228" text-anchor="end"
+  <text x="360" y="250" text-anchor="end"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="11" fill="#6a6a6a" letter-spacing="3">DESIGN</text>
-  <text x="270" y="228" text-anchor="start"
+        font-size="10" fill="#6a6a6a" letter-spacing="3">DESIGN</text>
+  <text x="390" y="250" text-anchor="start"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="14" fill="#d0d0d0" letter-spacing="2">
-    Figma
-  </text>
+        font-size="13" fill="#d0d0d0" letter-spacing="2">Figma</text>
 
-  <line x1="60" y1="244" x2="840" y2="244" stroke="url(#lineGrad)" stroke-width="1"
-        transform="translate(0,-16)"/>
+  <line x1="60" y1="238" x2="840" y2="238" stroke="url(#lineGrad)" stroke-width="1"/>
 </svg>
