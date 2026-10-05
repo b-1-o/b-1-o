@@ -4,8 +4,6 @@
 
 ### Frontend Developer · UI Engineer
 
-Building modern, responsive and interactive web experiences.
-
 <br>
 
 <div align="center">
