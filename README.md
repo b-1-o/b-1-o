@@ -12,10 +12,6 @@
   <img src="./assets/portfolio.svg" height="36" alt="Portfolio">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/b-1-o">
-  <img src="./assets/github.svg" height="36" alt="GitHub">
-</a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/b1o">
   <img src="./assets/linkedin.svg" height="36" alt="LinkedIn">
 </a>
