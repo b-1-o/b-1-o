@@ -228,15 +228,6 @@ A space for experimenting with layouts, motion and micro-interactions — a livi
 
 <div align="center">
 
-### Let's build something useful.
-
-<br>
-
-<a href="https://b-1-o.github.io/portfolio/">
-  <strong>View Portfolio →</strong>
-</a>
-
-<br><br>
 
 <sub>Frontend Development · UI Engineering · Web Applications</sub>
 
