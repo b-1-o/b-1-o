@@ -57,7 +57,7 @@ Currently open to **freelance work** and **frontend roles**.
 
 <td width="50%" valign="top">
 
-<h3>AI-Powered Web Experience</h3>
+<h3>AI</h3>
 
 <sub><em>AI-focused interface</em></sub>
 
