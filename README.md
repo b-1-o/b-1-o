@@ -20,7 +20,7 @@
   <img src="./assets/fiverr.svg" height="36" alt="Fiverr">
 </a>
 &nbsp;&nbsp;
-<a href="./assets/Erik_G_Frontend_Developer_CV.pdf">
+<a href="https://raw.githubusercontent.com/b-1-o/b-1-o/main/assets/Erik_G_Frontend_Developer_CV.pdf">
   <img src="./assets/resume.svg" height="36" alt="Download CV">
 </a>
 
