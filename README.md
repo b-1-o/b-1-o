@@ -2,7 +2,7 @@
 
 # b-1-o
 
-### Frontend Developer · UI Engineer
+### Erik G. · Frontend Developer · UI Engineer
 
 <sub>React · TypeScript · Next.js · UI Engineering</sub>
 
@@ -19,10 +19,8 @@
 <a href="https://www.fiverr.com/users/webbio">
   <img src="./assets/fiverr.svg" height="36" alt="Fiverr">
 </a>
-
-<br><br>
-
-<a href="./assets/cv.pdf">
+&nbsp;&nbsp;
+<a href="./assets/Erik_G_Frontend_Developer_CV.pdf">
   <img src="./assets/resume.svg" height="36" alt="Download CV">
 </a>
 
@@ -32,7 +30,7 @@
 
 ## About
 
-I'm a frontend developer who enjoys turning complex layouts into clean, responsive interfaces — and finding elegant solutions for state, data flow and interactions along the way.
+I'm Erik — a frontend developer who enjoys turning complex layouts into clean, responsive interfaces, and finding elegant solutions for state, data flow and interactions along the way.
 
 I work primarily with **React, TypeScript and Next.js**, with a focus on UI quality, responsive design, API integration and shipping real projects to production. I care about how things feel, not just how they look.
 
@@ -59,31 +57,28 @@ Currently open to **freelance work** and **frontend roles**.
 
 <td width="50%" valign="top">
 
-<h3>Nothing</h3>
+<h3>AI-Powered Web Experience</h3>
 
-<sub><em>Immersive product experience</em></sub>
-
-<br><br>
-
-A recreation of the Nothing brand language — focused on typography, black/white contrast and polished micro-interactions.
+<sub><em>AI-focused interface</em></sub>
 
 <br><br>
 
-<b>Role:</b> Design & Frontend Development<br>
-<b>Challenge:</b> Reproducing the brand's signature visual rhythm without heavy libraries.<br>
-<b>Solution:</b> Built a small design system in CSS variables and layered subtle scroll/transition animations on top.
+A modern AI-focused web application with an interactive UI, smooth animations and responsive layouts — built around an intuitive interface for AI-powered interactions.
 
 <br><br>
 
-<strong>React · TypeScript · Vite · CSS</strong>
+<b>Role:</b> Frontend Development &amp; UI/UX<br>
+<b>Challenge:</b> Making an AI-driven interface feel fast, fluid and human.<br>
+<b>Solution:</b> Focused on frontend architecture, motion design and clean visual hierarchy across viewports.
 
 <br><br>
 
-<a href="https://b-1-o.github.io/nothing/">
+<strong>React · TypeScript · JavaScript · UI/UX</strong>
+
+<br><br>
+
+<a href="https://b-1-o.github.io/AI/">
   <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-</a>
-<a href="https://github.com/b-1-o/nothing">
-  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
 </a>
 
 </td>
@@ -100,7 +95,7 @@ A dashboard that brings projects, repositories, deployments and team activity in
 
 <br><br>
 
-<b>Role:</b> Full Frontend & Integration<br>
+<b>Role:</b> Full Frontend &amp; Integration<br>
 <b>Challenge:</b> Aggregating data from multiple sources with different shapes and update rates.<br>
 <b>Solution:</b> Unified data layer on the server, streamed to a Next.js dashboard with optimistic updates.
 
@@ -122,6 +117,37 @@ A dashboard that brings projects, repositories, deployments and team activity in
 </tr>
 
 <tr>
+
+<td width="50%" valign="top">
+
+<h3>Nothing</h3>
+
+<sub><em>Immersive product experience</em></sub>
+
+<br><br>
+
+A recreation of the Nothing brand language — focused on typography, black/white contrast and polished micro-interactions.
+
+<br><br>
+
+<b>Role:</b> Design &amp; Frontend Development<br>
+<b>Challenge:</b> Reproducing the brand's signature visual rhythm without heavy libraries.<br>
+<b>Solution:</b> Built a small design system in CSS variables and layered subtle scroll/transition animations on top.
+
+<br><br>
+
+<strong>React · TypeScript · Vite · CSS</strong>
+
+<br><br>
+
+<a href="https://b-1-o.github.io/nothing/">
+  <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+</a>
+<a href="https://github.com/b-1-o/nothing">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+</a>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -154,6 +180,10 @@ A music app with playlists, a full player experience and YouTube-powered search 
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3>MyUI</h3>
@@ -166,7 +196,7 @@ A space for experimenting with layouts, motion and micro-interactions — a livi
 
 <br><br>
 
-<b>Role:</b> Design & Development<br>
+<b>Role:</b> Design &amp; Development<br>
 <b>Challenge:</b> Making interactive details feel intentional rather than decorative.<br>
 <b>Solution:</b> Iterative component-based approach, tested across viewports and browsers.
 
@@ -182,6 +212,10 @@ A space for experimenting with layouts, motion and micro-interactions — a livi
 <a href="https://github.com/b-1-o/myUI">
   <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
 </a>
+
+</td>
+
+<td width="50%" valign="top">
 
 </td>
 
