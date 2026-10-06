@@ -80,6 +80,9 @@ A modern AI-focused web application with an interactive UI, smooth animations an
 <a href="https://b-1-o.github.io/AI/">
   <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
 </a>
+<a href="https://github.com/b-1-o/AI">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+</a>
 
 </td>
 
