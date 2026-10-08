@@ -231,7 +231,3 @@ A space for experimenting with layouts, motion and micro-interactions — a livi
 
 <div align="center">
 
-
-<sub>Frontend Development · UI Engineering · Web Applications</sub>
-
-</div>
