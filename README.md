@@ -220,6 +220,33 @@ A space for experimenting with layouts, motion and micro-interactions — a livi
 
 <td width="50%" valign="top">
 
+<h3>JoBrain</h3>
+
+<sub><em>Job-search command center</em></sub>
+
+<br><br>
+
+A modern job-search command center for discovering roles, tracking applications, and visualizing the hiring pipeline — multi-source search, smart filtering, a visual analytics funnel, and a companion autofill extension.
+
+<br><br>
+
+<b>Role:</b> Full Frontend &amp; Integration<br>
+<b>Challenge:</b> Aggregating live job data from 10+ sources with different shapes and update rates, then turning it into a coherent tracking experience.<br>
+<b>Solution:</b> A unified data layer with Prisma and a polished Next.js dashboard — normalized results, application state management, and a responsive UI built for real production use.
+
+<br><br>
+
+<strong>Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL · Zod</strong>
+
+<br><br>
+
+<a href="https://jobrain.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+</a>
+<a href="https://github.com/b-1-o/JoBrain">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+</a>
+
 </td>
 
 </tr>
@@ -228,6 +255,3 @@ A space for experimenting with layouts, motion and micro-interactions — a livi
 </div>
 
 ---
-
-<div align="center">
-
