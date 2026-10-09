@@ -195,13 +195,13 @@ A music app with playlists, a full player experience and YouTube-powered search 
 
 <br><br>
 
-A space for experimenting with layouts, motion and micro-interactions — a living sketchbook of frontend ideas.
+A space for experimenting with layouts, motion and micro-interactions — a living sketchbook of frontend ideas. Components, transitions and layout patterns are tested here first, then carried over into real client and product work.
 
 <br><br>
 
 <b>Role:</b> Design &amp; Development<br>
-<b>Challenge:</b> Making interactive details feel intentional rather than decorative.<br>
-<b>Solution:</b> Iterative component-based approach, tested across viewports and browsers.
+<b>Challenge:</b> Making interactive details feel intentional rather than decorative, and keeping the codebase reusable across experiments.<br>
+<b>Solution:</b> Iterative component-based approach with isolated demos, tested across viewports and browsers before anything graduates into production.
 
 <br><br>
 
