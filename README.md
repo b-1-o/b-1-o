@@ -195,7 +195,7 @@ A music app with playlists, a full player experience and YouTube-powered search 
 
 <br><br>
 
-A space for experimenting with layouts, motion and micro-interactions — a living sketchbook of frontend ideas. Components, transitions and layout patterns are tested here first, then carried over into real client and product work.
+A space for experimenting with layouts, motion and micro-interactions — a living sketchbook of frontend ideas. Components, transitions and layout patterns are tested here first, then carried over into real client and product work. Every experiment stays small, self-contained and reusable.
 
 <br><br>
 
@@ -206,7 +206,6 @@ A space for experimenting with layouts, motion and micro-interactions — a livi
 <br><br>
 
 <strong>React · JavaScript · CSS</strong>
-
 
 <br><br>
 
