@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://b-1-o.github.io/portfolio/">
+<a href="https://b1o.is-a.dev/">
   <img src="./assets/portfolio.svg" height="36" alt="Portfolio">
 </a>
 &nbsp;&nbsp;
